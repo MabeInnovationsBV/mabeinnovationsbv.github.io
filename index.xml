@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mabe Innovations B.V.</title>
-    <link>http://mabeinnovations.github.io/</link>
+    <link>https://mabeinnovations.github.io/</link>
     <description>Recent content on Mabe Innovations B.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Nov 2017 09:36:40 +0100</lastBuildDate>
     
-	<atom:link href="http://mabeinnovations.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mabeinnovations.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>http://mabeinnovations.github.io/post/welcome/</link>
+      <link>https://mabeinnovations.github.io/post/welcome/</link>
       <pubDate>Mon, 20 Nov 2017 09:36:40 +0100</pubDate>
       
-      <guid>http://mabeinnovations.github.io/post/welcome/</guid>
+      <guid>https://mabeinnovations.github.io/post/welcome/</guid>
       <description>Welcome to the website of Mabe Innovations B.V.! Glad to see you here, enjoy the content, come back for more!</description>
     </item>
     
